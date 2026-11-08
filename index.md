@@ -2,7 +2,7 @@
 Hi! I'm a double data science and music major in Oregon State University's Honors College. With experience in both data visualization and survey methodology, I'm interested in pursuing a career in public opinion/survey research. See below for some of the cool projects I've been working on lately! 
 
 ## Projects 
-[U.S. Gender Pay Gap Visualization](https://github.com/MissEmmaGrace/The-State-of-Women-s-Paychecks)
+[U.S. Gender Pay Gap Visualization](https://beav.es/the-state-of-womens-paychecks)
 
 ## Skills
 - Python
