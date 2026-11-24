@@ -2,7 +2,6 @@
 
 ### oliveemm@oregonstate.edu | [linkedin profile](https://www.linkedin.com/in/emma-oliver-51b80b352?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
-### Background
 
 Hi! I’m Emma Oliver, a junior double data science and music major in Oregon State University’s Honors College. With a background as a published undergraduate researcher and internship experience in survey methodology and data visualization, I’m hoping to pursue a career in public opinion and survey research.
 
@@ -10,13 +9,13 @@ In high school and college, I voraciously read philosophy and classic literature
 
 During the same time that I was discovering these interests, I worked as an undergraduate researcher in the Wood Science and Engineering department at OSU where I authored two publications on the intersection of data analysis and wood science, one of which is currently published and one in review. These experiences gave me first-hand experience of the ups-and-downs and excitement involved in academic research. I loved the challenge, and this solidified my desire to enter the research field.
 
-### Career Goals
+## Where I'm Going...
 
-As mentioned above, I’m interested in entering the public opinion/survey research sector. My experiences as an undergraduate researcher solidified my interest and competencies in research, and my work as a tech assistant for OSU’s Survey Research Center gave me a first-hand taste of the work involved in survey methodology. These experiences helped me narrow down the specialty within data science I was interested in and gave me the opportunity as an undergraduate to gather hands-on-experience of the work required. 
+As discussed above, I’m working towards becoming a public opinion/survey research statistician. My background as a published undergrad researcher solidified my interest and competency in research, and I gained first-hand experience with large-scale survey methodology work as a tech assistant for OSU’s Survey Research Center. In addition, my data visualization projects in R have expanded my skills in advanced survey data visualizations, both static and interactive. Combined, these opportunities have confirmed my interest and given me relevant, real-world experience in this field as an undergrad. 
 
-I enjoy public opinion/survey research because I love how it can be used to understand how a certain group of people (or society in general) think and act on a certain topic. It can help increase awareness of issues in society and allow people to understand other people’s perspectives better, hopefully enabling better communication/understanding between different groups. In a society that’s increasing isolated and hostile, I think understand issues related to public opinion (and releasing that data in accurate data visualizations/reports) is very important. 
+My interest in public opinion/survey research stems from my belief that this research, when ethically and skillfully conducted, enables increased awareness of issues in society and allows people to understand other people’s perspectives better, hopefully creating beneficial communication and awareness. In a society that is constantly battling misinformation and ideological isolation, I think understand issues related to public opinion and releasing that data in accurate data visualizations and reports is more vital than ever before.  
 
-As a junior in college, I’m considering at the moment whether or not I want to pursue graduate school. If I did, my goal would be to enter a graduate program that focuses on the intersection of statistics and public opinion/survey methodology. Ultimately, I would like to work for a research think-tank organization or other university survey organization as a statistician/survey researcher. 
+As a college junior, I’m hoping to gain more hands-on experience in the public opinion research field in the near future, either through an internship or an entry level research assistant/analysist position. I also plan on concentrating my personal efforts to expand my Python and R skills through data analysis and visualization projects. Looking even farther forward, I’m considering the possibility of graduate school. If I decided to go down that route, my goal would be to enter a graduate program that focuses on the intersection of statistics and public opinion and survey methodology. Ultimately, however, all this work culminates in my end-goal of working for a research think-tank or other university survey organization as a public opinion/survey research statistician.
 
 ## Projects 
 
